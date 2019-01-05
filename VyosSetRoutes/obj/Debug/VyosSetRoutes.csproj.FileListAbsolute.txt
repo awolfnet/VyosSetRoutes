@@ -1,0 +1,8 @@
+F:\visualstudio2015\Projects\VyosSetRoutes\VyosSetRoutes\bin\Debug\VyosSetRoutes.exe
+F:\visualstudio2015\Projects\VyosSetRoutes\VyosSetRoutes\bin\Debug\VyosSetRoutes.pdb
+F:\visualstudio2015\Projects\VyosSetRoutes\VyosSetRoutes\obj\Debug\VyosSetRoutes.csprojResolveAssemblyReference.cache
+F:\visualstudio2015\Projects\VyosSetRoutes\VyosSetRoutes\obj\Debug\VyosSetRoutes.Form1.resources
+F:\visualstudio2015\Projects\VyosSetRoutes\VyosSetRoutes\obj\Debug\VyosSetRoutes.Properties.Resources.resources
+F:\visualstudio2015\Projects\VyosSetRoutes\VyosSetRoutes\obj\Debug\VyosSetRoutes.csproj.GenerateResource.Cache
+F:\visualstudio2015\Projects\VyosSetRoutes\VyosSetRoutes\obj\Debug\VyosSetRoutes.exe
+F:\visualstudio2015\Projects\VyosSetRoutes\VyosSetRoutes\obj\Debug\VyosSetRoutes.pdb
